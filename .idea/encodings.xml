@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/anyQuestion.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/functions.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/ipad.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/iphone.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/rhyme.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/rhyme_2.0_beta.php" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
